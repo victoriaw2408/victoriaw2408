@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 +#victoriaw2408
 +
 +Victoria W
+
+Victoria Whisnant
+Education:
+Dwight Morrow High School 2019-2023
+Northeastern University 2023- present
