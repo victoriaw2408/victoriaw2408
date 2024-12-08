@@ -32,4 +32,4 @@ Feel free to reach out if you're interested in my projects, want to collaborate,
 
 ---
 
-Thanks for checking out my portfolio! 🙌
+Thanks for checking out my page! 🙌
