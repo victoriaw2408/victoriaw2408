@@ -13,13 +13,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/victoria-
 A wardrobe management app built with **React Native**, **JavaScript**, and **Supabase**, designed to help users organize their outfits and receive personalized suggestions.  
 
 
+### **Minesweeper 💣**  
+A **Java**-based remake of the classic Minesweeper game, featuring a GUI with a timer, restart option, and flag functionality, focused on logic and object-oriented programming. 
+
 
 ### **LightEmAll 🔦**  
 A dynamic pathfinding visualizer that uses **Kruskal's algorithm** to light up the shortest path, showcasing my interest in algorithm visualization and problem-solving. The project also includes a **GUI timer** to track the progress and a **Breadth-First Search (BFS)** for alternative pathfinding methods.  
 
 
-### **Minesweeper 💣**  
-A **Java**-based remake of the classic Minesweeper game, featuring a GUI with a timer, restart option, and flag functionality, focused on logic and object-oriented programming.  
 
 ---
 
