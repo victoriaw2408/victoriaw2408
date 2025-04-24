@@ -21,6 +21,9 @@ A **Java**-based remake of the classic Minesweeper game, featuring a GUI with a 
 A dynamic pathfinding visualizer that uses **Kruskal's algorithm** to light up the shortest path, showcasing my interest in algorithm visualization and problem-solving. The project also includes a **GUI timer** to track the progress and a **Breadth-First Search (BFS)** for alternative pathfinding methods.  
 
 
+### **Kambaz 📚**
+Kambaz is a full-stack course management web app rebuilt using TypeScript, React, HTML/CSS, and MongoDB. It features role-based access for faculty and students, allowing users to create, update, and delete courses, modules, assignments, and quizzes.
+
 
 ---
 
