@@ -1,6 +1,6 @@
 # 🍪 Hi, I’m Victoria Whisnant
 
-I'm a first-year student at Northeastern University pursuing a combined Bachelor’s and Master’s degree in **Computer Science** and **Design** through the PlusOne program. I’m passionate about **UI/UX design** and **front-end web development**, and I thrive on creating intuitive, user-friendly digital experiences. My goal is to merge **design** and **technology** to craft interactive, engaging interfaces.  
+I'm a second-year student at Northeastern University pursuing a combined Bachelor’s and Master’s degree in **Computer Science** and **Design** through the PlusOne program. I’m passionate about **UI/UX design** and **front-end web development**, and I thrive on creating intuitive, user-friendly digital experiences. My goal is to merge **design** and **technology** to craft interactive, engaging interfaces.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/victoria-whisnant-4845702b2/) or email me at [whisnant.v@northeastern.edu](mailto:whisnant.v@northeastern.edu).
 
 ---
